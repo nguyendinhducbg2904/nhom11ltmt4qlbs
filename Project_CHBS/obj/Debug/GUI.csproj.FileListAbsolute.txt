@@ -1,0 +1,26 @@
+E:\Tren_Truong\KI_4\Thực Tập Nghề Nghiệp\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\Project_CHBS.exe.config
+E:\Tren_Truong\KI_4\Thực Tập Nghề Nghiệp\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Tren_Truong\KI_4\Thực Tập Nghề Nghiệp\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Form1.resources
+E:\Tren_Truong\KI_4\Thực Tập Nghề Nghiệp\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Frm_Sach.resources
+E:\Tren_Truong\KI_4\Thực Tập Nghề Nghiệp\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Properties.Resources.resources
+E:\Tren_Truong\KI_4\Thực Tập Nghề Nghiệp\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\Project_CHBS.exe.config
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Frm_Sach.resources
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Properties.Resources.resources
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\Project_CHBS.exe
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\Project_CHBS.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\BUS.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\DTO.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\DAL.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\BUS.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\DTO.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\bin\Debug\DAL.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.exe
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Frm_NhanVien.resources
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Frm_KhachHang.resources
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Frm_HoaDon.resources
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Frm_TKTT1_KhachHang.resources
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\Project_CHBS\obj\Debug\Project_CHBS.Project_Start.resources

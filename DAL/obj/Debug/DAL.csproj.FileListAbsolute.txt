@@ -1,0 +1,7 @@
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DAL\bin\Debug\DAL.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DAL\bin\Debug\DAL.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DAL\bin\Debug\DTO.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DAL\bin\Debug\DTO.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DAL\obj\Debug\DAL.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DAL\obj\Debug\DAL.pdb

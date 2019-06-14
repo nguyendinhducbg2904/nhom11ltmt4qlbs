@@ -1,0 +1,6 @@
+E:\Tren_Truong\KI_4\Thực Tập Nghề Nghiệp\CodeGym\Project_CHBS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DTO\bin\Debug\DTO.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DTO\bin\Debug\DTO.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DTO\obj\Debug\DTO.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\DTO\obj\Debug\DTO.pdb

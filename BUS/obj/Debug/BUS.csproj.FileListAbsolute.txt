@@ -1,0 +1,9 @@
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\bin\Debug\BUS.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\bin\Debug\BUS.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\bin\Debug\DAL.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\bin\Debug\DTO.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\bin\Debug\DAL.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\bin\Debug\DTO.pdb
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\obj\Debug\BUS.dll
+E:\Tren_Truong\KI_4\_Thuc_Tap_Nghe_Nghiep_\CodeGym\Project_CHBS\BUS\obj\Debug\BUS.pdb
